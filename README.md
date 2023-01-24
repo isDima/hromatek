@@ -32,7 +32,7 @@ cbaa
 
 Всего вариантов = 12
 
-
+<code>
 using System;
 
 namespace Combinations
@@ -59,3 +59,4 @@ namespace Combinations
         }
     }
 }
+</code>
